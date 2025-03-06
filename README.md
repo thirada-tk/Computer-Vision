@@ -6,8 +6,8 @@ _Author: Thirada Tiamklang_
 This project explores the application of __Convolutional Neural Networks (CNNs) for food image classification using the Food101 dataset__. Three pre-trained _models—GoogLeNet, MobileNetV3, and NASNet—_ were evaluated using transfer learning. MobileNetV3 was selected for fine-tuning due to its balance between performance and computational efficiency.
 
 The project is divided into two parts:
-* [__Part A__:](Computer-Vision/Thirada_Tiamklang-14337188_PartA.ipynb) Analyze and compare GoogLeNet, MobileNet V3, and NasNet architectures, then apply transfer learning.
-* [__Part B__:](Computer-Vision/Thirada_Tiamklang-14337188_PartB.ipynb) Fine-tune the best-performing model from Part A and analyze the improvements. (Computer-Vision/Thirada_Tiamklang-14337188_PartB.ipynb)
+* [__Part A__:](Thirada_Tiamklang-14337188_PartA.ipynb) Analyze and compare GoogLeNet, MobileNet V3, and NasNet architectures, then apply transfer learning.
+* [__Part B__:](Thirada_Tiamklang-14337188_PartB.ipynb) Fine-tune the best-performing model from Part A and analyze the improvements. (Computer-Vision/Thirada_Tiamklang-14337188_PartB.ipynb)
 
 ## 📁 Dataset Description
 
