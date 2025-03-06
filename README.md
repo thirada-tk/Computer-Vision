@@ -18,7 +18,7 @@ The Food101 dataset consists of 101 food categories with a total of 101,000 imag
 * __MobileNetV3__: 224x224 pixels
 * __NASNet__: 331x331 pixels
 
-## 🧰 Model Architectures & Training
+## 🔧 Model Architectures & Training
 
 #### 1. GoogLeNet
 * Uses Inception modules for efficient computation.
