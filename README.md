@@ -30,7 +30,7 @@ The Food101 dataset consists of 101 food categories with a total of 101,000 imag
 * More complex but computationally intensive.
 * Test Accuracy: _77.12%_
   
-## Fine-Tuning MobileNetV3
+## 🔊Fine-Tuning MobileNetV3
 * Due to GPU constraints, __MobileNetV3__ was selected for fine-tuning instead of NASNet.
 * Unfroze specific layers (Layer 12 & 14) and retrained.
 * ✅ Final Test Accuracy after fine-tuning: _86.58% (13% improvement)_
