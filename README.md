@@ -7,8 +7,7 @@ This project explores the application of __Convolutional Neural Networks (CNNs) 
 
 The project is divided into two parts:
 * [__Part A__:](Thirada_Tiamklang-14337188_PartA.ipynb) Analyze and compare GoogLeNet, MobileNet V3, and NasNet architectures, then apply transfer learning.
-* [__Part B__:](Thirada_Tiamklang-14337188_PartB.ipynb) Fine-tune the best-performing model from Part A and analyze the improvements. (Computer-Vision/Thirada_Tiamklang-14337188_PartB.ipynb)
-
+* [__Part B__:](Thirada_Tiamklang-14337188_PartB.ipynb) Fine-tune the best-performing model from Part A and analyze the improvements.
 ## 📁 Dataset Description
 
 The Food101 dataset consists of 101 food categories with a total of 101,000 images. The dataset was processed as follows:
